@@ -1,0 +1,36 @@
+
+Tracing route to cs.manchester.ac.uk [130.88.101.49]
+over a maximum of 30 hops:
+
+  1     2 ms     3 ms     3 ms  192.168.43.1 
+  2     *        *        *     Request timed out.
+  3   108 ms   437 ms   100 ms  10.72.218.138 
+  4    74 ms    79 ms    84 ms  172.25.101.189 
+  5   103 ms   104 ms   678 ms  172.25.101.184 
+  6   106 ms    84 ms    85 ms  172.17.120.7 
+  7   163 ms    80 ms    83 ms  172.17.120.77 
+  8   635 ms   373 ms   636 ms  172.26.40.5 
+  9    65 ms    70 ms    76 ms  172.16.24.10 
+ 10    95 ms    91 ms    82 ms  172.16.2.46 
+ 11   228 ms   217 ms   207 ms  103.198.140.45 
+ 12   206 ms   255 ms   588 ms  103.198.140.56 
+ 13   201 ms   208 ms   210 ms  103.198.140.107 
+ 14   239 ms   194 ms   224 ms  103.198.140.45 
+ 15   232 ms   208 ms   251 ms  hu0-4-0-1.agr21.lhr01.atlas.cogentco.com [149.14.196.81] 
+ 16   221 ms   206 ms   216 ms  be3672.ccr52.lhr01.atlas.cogentco.com [130.117.48.145] 
+ 17   212 ms   226 ms   214 ms  be3488.ccr42.lon13.atlas.cogentco.com [154.54.60.13] 
+ 18   212 ms   196 ms   222 ms  be2871.ccr21.lon01.atlas.cogentco.com [154.54.58.186] 
+ 19   228 ms   286 ms   230 ms  ldn-b1-link.telia.net [62.115.9.28] 
+ 20   197 ms   209 ms   254 ms  ldn-bb3-link.telia.net [62.115.120.74] 
+ 21   363 ms   211 ms     *     ldn-b2-link.telia.net [62.115.122.189] 
+ 22   199 ms   269 ms   203 ms  jisc-ic-345131-ldn-b4.c.telia.net [62.115.175.131] 
+ 23   210 ms   197 ms   226 ms  ae24.londhx-sbr1.ja.net [146.97.35.197] 
+ 24   224 ms   195 ms   392 ms  ae29.londpg-sbr2.ja.net [146.97.33.2] 
+ 25   224 ms   324 ms   251 ms  ae31.erdiss-sbr2.ja.net [146.97.33.22] 
+ 26   182 ms   230 ms   221 ms  ae29.manckh-sbr2.ja.net [146.97.33.42] 
+ 27   263 ms   252 ms   429 ms  ae23.mancrh-rbr1.ja.net [146.97.38.42] 
+ 28     *        *      205 ms  universityofmanchester.ja.net [146.97.169.2] 
+ 29   343 ms   208 ms   248 ms  130.88.249.194 
+ 30     *        *        *     Request timed out.
+
+Trace complete.

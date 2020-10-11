@@ -1,0 +1,29 @@
+
+Tracing route to csail.mit.edu [128.30.2.109]
+over a maximum of 30 hops:
+
+  1     2 ms     3 ms     6 ms  192.168.43.1 
+  2     *        *        *     Request timed out.
+  3   103 ms    83 ms    84 ms  10.72.218.138 
+  4    49 ms   165 ms    70 ms  172.25.101.189 
+  5   100 ms    65 ms   198 ms  172.25.101.184 
+  6    98 ms   155 ms   120 ms  172.17.120.7 
+  7    62 ms    76 ms    61 ms  172.17.120.73 
+  8   109 ms    78 ms   138 ms  172.26.40.7 
+  9   113 ms    64 ms    70 ms  172.16.24.30 
+ 10   107 ms    66 ms   102 ms  172.16.2.48 
+ 11   124 ms    89 ms    88 ms  172.16.20.29 
+ 12   117 ms    99 ms   144 ms  49.45.4.251 
+ 13   550 ms   319 ms   319 ms  49.45.4.103 
+ 14   570 ms   481 ms   383 ms  103.198.140.89 
+ 15   350 ms   632 ms   657 ms  4.7.26.61 
+ 16     *        *        *     Request timed out.
+ 17   649 ms   361 ms   378 ms  MASSACHUSET.bear1.Boston1.Level3.net [4.53.48.98] 
+ 18   404 ms   538 ms   376 ms  dmz-rtr-1-external-rtr-1.mit.edu [18.0.161.17] 
+ 19   380 ms   378 ms   409 ms  dmz-rtr-2-dmz-rtr-1-2.mit.edu [18.0.162.6] 
+ 20   400 ms   365 ms   363 ms  mitnet.core-1-ext.csail.mit.edu [18.4.7.65] 
+ 21     *        *        *     Request timed out.
+ 22   732 ms   635 ms   362 ms  bdr.core-1.csail.mit.edu [128.30.0.246] 
+ 23   481 ms   363 ms   367 ms  inquir-3ld.csail.mit.edu [128.30.2.109] 
+
+Trace complete.

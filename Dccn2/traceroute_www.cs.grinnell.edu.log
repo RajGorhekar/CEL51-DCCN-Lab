@@ -1,0 +1,36 @@
+
+Tracing route to www.cs.grinnell.edu [132.161.132.159]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     2 ms  192.168.43.1 
+  2     *        *        *     Request timed out.
+  3    56 ms   112 ms    57 ms  10.72.216.10 
+  4    60 ms    48 ms    51 ms  172.25.101.189 
+  5   436 ms   391 ms   383 ms  172.25.101.188 
+  6     *      588 ms   248 ms  172.17.120.7 
+  7   125 ms    46 ms    50 ms  172.17.120.73 
+  8    67 ms   128 ms    69 ms  172.16.92.145 
+  9    75 ms   225 ms    64 ms  172.16.24.8 
+ 10   213 ms   143 ms    65 ms  172.16.2.46 
+ 11   611 ms   401 ms   367 ms  103.198.140.56 
+ 12   197 ms   181 ms   204 ms  103.198.140.56 
+ 13   317 ms   232 ms   185 ms  hurricane.mrs.franceix.net [37.49.232.13] 
+ 14   237 ms   250 ms   197 ms  100ge4-2.core1.par2.he.net [184.105.222.21] 
+ 15   310 ms   259 ms   263 ms  100ge14-1.core1.nyc4.he.net [184.105.81.77] 
+ 16   275 ms     *      280 ms  100ge9-1.core2.chi1.he.net [184.105.223.161] 
+ 17   292 ms   280 ms   365 ms  100ge14-2.core1.msp1.he.net [184.105.223.178] 
+ 18     *        *      279 ms  aureon-network-services-inc.e0-26.switch1.msp1.he.net [216.66.77.218] 
+ 19   297 ms   348 ms     *     peer-as5056.br02.msp1.tfbnw.net [157.240.76.37] 
+ 20   311 ms   285 ms   283 ms  167.142.58.40 
+ 21   283 ms   283 ms   306 ms  67.224.64.62 
+ 22   333 ms   472 ms   392 ms  grinnellcollege1.desm.netins.net [167.142.65.43] 
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
